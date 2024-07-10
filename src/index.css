@@ -5,3 +5,7 @@
 * {
   min-width: 0; /* TODO: none???? */
 }
+
+input {
+  color-scheme: dark;
+}
